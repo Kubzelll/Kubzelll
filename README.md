@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kubzel</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kubzelll&color=0e75b6&style=flat" alt="Kubzelll" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kubzelll&color=0e75b6&style=flat"/> </p>
 
 
  <div>
